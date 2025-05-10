@@ -1,16 +1,33 @@
-# move
+# Trending Movie Viewer 🎥
 
-A new Flutter project.
+Trending Movie Viewer هو تطبيق Flutter يعرض الأفلام الشائعة، البرامج التلفزيونية، والعروض التي تُعرض اليوم. يتيح التطبيق للمستخدمين استكشاف الأفلام، البحث عنها، وإضافتها إلى قائمة المفضلة.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## 📋 الميزات
 
-A few resources to get you started if this is your first Flutter project:
+- **الأفلام الشائعة**: عرض قائمة بالأفلام الأكثر شيوعًا.
+- **البرامج التلفزيونية**: عرض قائمة بالبرامج التلفزيونية الأكثر شهرة.
+- **العروض التي تُعرض اليوم**: عرض البرامج التلفزيونية التي تُعرض اليوم.
+- **المفضلة**: إمكانية إضافة الأفلام والبرامج إلى قائمة المفضلة.
+- **البحث**: البحث عن الأفلام أو البرامج بسهولة.
+- **واجهة مستخدم داكنة**: تصميم جذاب باستخدام الوضع الداكن.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+---
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 🛠️ المتطلبات
+
+- **Flutter SDK**: الإصدار 3.0.0 أو أحدث.
+- **Dart**: الإصدار 2.17.0 أو أحدث.
+- **TMDB API Key**: مفتاح API من [The Movie Database](https://www.themoviedb.org/).
+
+---
+
+## 📋 نفذ المشروع
+
+- **معتز التميمي**
+- **عمر السباعي**
+- **سعيد باعيضان**
+
+---
+   
